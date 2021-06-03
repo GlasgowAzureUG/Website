@@ -9,8 +9,21 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Organisers"
+  url = "#"
+  hasChildren = true
+  weight = 20
+
+[[main]]
+  parent = "Organisers"
+  name = "Sarah"
+  url = "#sarah"
+  weight = 10
+
+[[main]]
+  parent = "Organisers"
+  name = "Gregor"
+  url = "#gregor"
   weight = 20
 
 [[main]]
@@ -27,11 +40,6 @@
   name = "Code of Conduct"
   url = "conduct"
   weight = 50
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
 
 
 # Link to a PDF of your resume/CV from the menu.

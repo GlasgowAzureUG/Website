@@ -34,12 +34,9 @@ hero_media = "sarah3_four.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
+  url = "/authors/sarah"
   label = "Know more"
   
-[btn_alt]
-  url = "#contact"
-  label = "Contact me"
 
 +++
 ## Sarah Lean, the **organiser** and **founder**

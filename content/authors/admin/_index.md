@@ -1,7 +1,7 @@
 ---
 # Display name
-name: All are welcome!
-avatar_image: "user-full.png"
+name: All welcome!
+avatar_image: "gaugnov2019.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -20,7 +20,12 @@ superuser: true
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Professionals across various disciplines including Developers, Testers, Architects, Project Managers, Scrum Masters, CTOs and many more are all welcome. Interested in speaking at one of our events? Please go ahead and submit a session on our [Sessionize page](https://sessionize.com/azure-thames-valley)!"
+bio: "Welcome to the Glasgow Azure User Group page! This user group was founded as an independent body in early 2017 and it looks to bring the IT community within Glasgow and surrounding areas together. The group is a community driven group delivering the type of content, speakers and experiences that the IT community in Glasgow wants. The group is open to developers, architects, consultants, engineers and enthusiasts. Participating in GAUG meetups has many benefits including:
+
+- Learn best practices and optimal use of Microsoft’s Cloud platform
+- Get answers, advice, tips and suggestions from peers
+- Gain insights into what others are doing within Azure
+- Network with local peers"
 
 # Should the user's education and interests be displayed?
 display_education: false
@@ -72,6 +77,9 @@ social:
 # - Visitors
 ---
 
-Professionals across various disciplines including Developers, Testers, Architects, Project Managers, Scrum Masters, CTOs and many more are all welcome.
+Welcome to the Glasgow Azure User Group! This user group was founded as an independent body in early 2017 and it looks to bring the IT community within Glasgow and surrounding areas together. The group is a community driven group delivering the type of content, speakers and experiences that the IT community in Glasgow wants. The group is open to developers, architects, consultants, engineers and enthusiasts. Participating in GAUG meetups has many benefits including:
 
-Interested in speaking at one of our events? Please go ahead and submit a session on our [Sessionize page](https://sessionize.com/azure-thames-valley)!
+- Learn best practices and optimal use of Microsoft’s Cloud platform
+- Get answers, advice, tips and suggestions from peers
+- Gain insights into what others are doing within Azure
+- Network with local peers

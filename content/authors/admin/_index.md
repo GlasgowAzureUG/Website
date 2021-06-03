@@ -1,6 +1,6 @@
 ---
 # Display name
-name: All welcome!
+name: git
 avatar_image: "gaugnov2019.jpg"
 # Username (this should match the folder name)
 authors:

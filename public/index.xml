@@ -1,69 +1,101 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academia</title>
-    <link>https://examplesite.org/</link>
-    <description>Recent content on Academia</description>
+    <title>Glasgow Azure User Group</title>
+    <link>https://ashy-hill-052747203.azurestaticapps.net/</link>
+    <description>Recent content on Glasgow Azure User Group</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ashy-hill-052747203.azurestaticapps.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://examplesite.org/talk/</link>
+      <link>https://ashy-hill-052747203.azurestaticapps.net/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/talk/</guid>
+      <guid>https://ashy-hill-052747203.azurestaticapps.net/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://examplesite.org/courses/</link>
+      <link>https://ashy-hill-052747203.azurestaticapps.net/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://examplesite.org/courses/</guid>
+      <guid>https://ashy-hill-052747203.azurestaticapps.net/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://examplesite.org/publication/</link>
+      <link>https://ashy-hill-052747203.azurestaticapps.net/publication/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/</guid>
+      <guid>https://ashy-hill-052747203.azurestaticapps.net/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://examplesite.org/post/</link>
+      <link>https://ashy-hill-052747203.azurestaticapps.net/post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/post/</guid>
+      <guid>https://ashy-hill-052747203.azurestaticapps.net/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://examplesite.org/slides/</link>
+      <link>https://ashy-hill-052747203.azurestaticapps.net/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/slides/</guid>
+      <guid>https://ashy-hill-052747203.azurestaticapps.net/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://examplesite.org/project/</link>
+      <link>https://ashy-hill-052747203.azurestaticapps.net/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/</guid>
+      <guid>https://ashy-hill-052747203.azurestaticapps.net/project/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ashy-hill-052747203.azurestaticapps.net/conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashy-hill-052747203.azurestaticapps.net/conduct/</guid>
+      <description>&lt;h3 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h3&gt;
+&lt;p&gt;This code of conduct outlines our expectations for participants within the Glasgow Azure User Group community, as well as steps to reporting unacceptable behaviour. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honoured. Anyone who violates this code of conduct may be banned from the community.&lt;/p&gt;
+&lt;p&gt;We are dedicated to providing a harassment-free user group/conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.&lt;/p&gt;
+&lt;p&gt;Our aim is to foster a community that is open to all and strives to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be friendly and patient&lt;/li&gt;
+&lt;li&gt;Be welcoming: We strive to be a community that welcomes and supports people of all backgrounds and identities.&lt;/li&gt;
+&lt;li&gt;Be considerate&lt;/li&gt;
+&lt;li&gt;Be respectful: You may not agree with each other all the time but disagreement is no excuse for poor behaviour and poor manners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;reporting-process&#34;&gt;Reporting Process&lt;/h4&gt;
+&lt;p&gt;If you experience or witness unacceptable behaviour—or have any other concerns—please report it by contacting us via one of these methods:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Email to &lt;a href=&#34;mailto:conduct@gaug.co.uk&#34;&gt;conduct@gaug.co.uk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In person while at an event - please ask to speak to a committee member.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;consequences-of-unacceptable-behaviour&#34;&gt;Consequences of Unacceptable Behaviour&lt;/h4&gt;
+&lt;p&gt;Unacceptable behaviour from any community member, including sponsors and those with decision-making authority, will not be tolerated. Anyone asked to stop unacceptable behaviour is expected to comply immediately.&lt;/p&gt;
+&lt;p&gt;If a community member engages in unacceptable behaviour, the community organisers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.&lt;/p&gt;
+&lt;p&gt;We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks.&lt;/p&gt;
+&lt;p&gt;Attendees or speakers violating these rules will be asked to leave the meeting, and will be refused entrance to future meetings.&lt;/p&gt;
+&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h3&gt;
+&lt;p&gt;If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of organising staff.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

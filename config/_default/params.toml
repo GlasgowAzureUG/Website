@@ -70,7 +70,8 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Follow Us on Twitter", link = "https://twitter.com/GlasgowAzureUG"},
   {icon = "facebook", icon_pack = "fab", name = "Follow Us on Facebook", link = "https://www.facebook.com/GlasgowAzureUG"},
   {icon = "linkedin", icon_pack = "fab", name = "Follow Us on LinkedIn", link = "https://www.linkedin.com/company/glasgowazureug/"},
-  {icon = "youtube", icon_pack = "fas", name = "Watch our previous meetups", link = "https://www.youtube.com/watch?v=WgFjVsvNbhA&list=PLbjernQTVXit6jd2Cb4Z4872eudxqAPJ8"}
+  {icon = "youtube", icon_pack = "fab", name = "Watch our previous meetups", link = "https://www.youtube.com/watch?v=WgFjVsvNbhA&list=PLbjernQTVXit6jd2Cb4Z4872eudxqAPJ8"},
+  {icon = "calendar", icon_pack = "fas", name = "Sign up to attend our meetups", link = "https://www.eventbrite.co.uk/o/glasgow-azure-user-group-13843919802"}
   ]
 
 # Display a map.

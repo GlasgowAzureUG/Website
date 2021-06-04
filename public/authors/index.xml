@@ -18,12 +18,12 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ashy-hill-052747203.azurestaticapps.net/authors/admin/</guid>
-      <description>&lt;p&gt;Welcome to the Glasgow Azure User Group! This user group was founded as an independent body in early 2017 and it looks to bring the IT community within Glasgow and surrounding areas together. The group is a community driven group delivering the type of content, speakers and experiences that the IT community in Glasgow wants. The group is open to developers, architects, consultants, engineers and enthusiasts. Participating in GAUG meetups has many benefits including:&lt;/p&gt;
+      <description>&lt;p&gt;Welcome to the Glasgow Azure User Group! This user group was founded as an independent body in early 2017 and it looks to bring the IT community within Glasgow and surrounding areas together. The group is a &lt;strong&gt;community driven&lt;/strong&gt; group delivering the type of content, speakers and experiences that the IT community in Glasgow wants. The group is open to developers, architects, consultants, engineers and enthusiasts. Participating in GAUG meetups has many benefits including:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Learn best practices and optimal use of Microsoft’s Cloud platform&lt;/li&gt;
+&lt;li&gt;Learn &lt;strong&gt;best practices&lt;/strong&gt; and optimal use of Microsoft’s Cloud platform&lt;/li&gt;
 &lt;li&gt;Get answers, advice, tips and suggestions from peers&lt;/li&gt;
-&lt;li&gt;Gain insights into what others are doing within Azure&lt;/li&gt;
-&lt;li&gt;Network with local peers&lt;/li&gt;
+&lt;li&gt;Gain &lt;strong&gt;insights&lt;/strong&gt; into what others are doing within Azure&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Network&lt;/strong&gt; with local peers&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -52,7 +52,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ashy-hill-052747203.azurestaticapps.net/authors/gregor/</guid>
-      <description>&lt;p&gt;Gregor&amp;rsquo;s bio&lt;/p&gt;
+      <description>&lt;p&gt;Hi, my name is Gregor Suttie and I live near Glasgow, Scotland.&lt;/p&gt;
+&lt;p&gt;I am a passionate developer with 20+ years experience, mainly with Microsoft Technologies and background is a .NET developer since the start of .NET. – I was one of the first 50 people in the world to become an MCSD developer back in the day.  In August 2019 I became a Microsoft Azure MVP.&lt;/p&gt;
+&lt;p&gt;My main passions are around Azure and DevOps, I went from no knowledge of Azure to an Azure MVP in under 2 years and along the journey passed 9 exams, I learn new skills quickly and I keep on top of a number of technologies and a life learner.&lt;/p&gt;
 </description>
     </item>
     
@@ -75,6 +77,16 @@
 &lt;p&gt;Born and raised on a dairy farm in Scotland, Sarah holds true to her heritage by embracing the natural world through her appreciation for technology. For Sarah, technology is a way to see life as it grows and adapts, ever-changing, just like the natural world of farming.&lt;/p&gt;
 &lt;p&gt;Sarah is proud to give back to her community. As a STEM Ambassador, Sarah helps others learn how IT can impact and change their lives for the better. Most specifically, she enjoys teaching the next generation of young women how they too can rise in a male-oriented field and succeed in their own careers. Sarah also founded the Glasgow Azure User Group, a community collective who meets bimonthly to network and discuss the latest in technology.&lt;/p&gt;
 &lt;p&gt;Sarah’s enthusiasm in the field of technology has given her the opportunity to speak at public events, most notably, Microsoft Ignite.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ashy-hill-052747203.azurestaticapps.net/authors/speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashy-hill-052747203.azurestaticapps.net/authors/speaking/</guid>
+      <description>&lt;p&gt;Interested in speaking&lt;/p&gt;
 </description>
     </item>
     

@@ -233,11 +233,28 @@
   </url>
   
   <url>
-    <loc>https://ashy-hill-052747203.azurestaticapps.net/authors/organisers/</loc>
+    <loc>https://ashy-hill-052747203.azurestaticapps.net/authors/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ashy-hill-052747203.azurestaticapps.net/authors/gregor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ashy-hill-052747203.azurestaticapps.net/authors/newsletter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ashy-hill-052747203.azurestaticapps.net/authors/sarah/</loc>
   </url>
   
   <url>
     <loc>https://ashy-hill-052747203.azurestaticapps.net/conduct/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashy-hill-052747203.azurestaticapps.net/sponsors/</loc>
     <priority>0</priority>
   </url>
   

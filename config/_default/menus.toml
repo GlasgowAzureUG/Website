@@ -42,9 +42,39 @@
   weight = 50
 
 [[main]]
+  name = "Past Events"
+  url = "#"
+  hasChildren = true
+  weight = 60
+
+[[main]]
+  parent = "Past Events"
+  name = "2017"
+  url = "2017"
+  weight = 10
+
+[[main]]
+  parent = "Past Events"
+  name = "2018"
+  url = "2018"
+  weight = 20
+
+[[main]]
+  parent = "Past Events"
+  name = "2019"
+  url = "2019"
+  weight = 30
+
+[[main]]
+  parent = "Past Events"
+  name = "2020"
+  url = "2020"
+  weight = 40
+
+[[main]]
   name = "Code of Conduct"
   url = "conduct"
-  weight = 60
+  weight = 70
 
 
 # Link to a PDF of your resume/CV from the menu.

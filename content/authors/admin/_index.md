@@ -77,9 +77,9 @@ social:
 # - Visitors
 ---
 
-Welcome to the Glasgow Azure User Group! This user group was founded as an independent body in early 2017 and it looks to bring the IT community within Glasgow and surrounding areas together. The group is a community driven group delivering the type of content, speakers and experiences that the IT community in Glasgow wants. The group is open to developers, architects, consultants, engineers and enthusiasts. Participating in GAUG meetups has many benefits including:
+Welcome to the Glasgow Azure User Group! This user group was founded as an independent body in early 2017 and it looks to bring the IT community within Glasgow and surrounding areas together. The group is a **community driven** group delivering the type of content, speakers and experiences that the IT community in Glasgow wants. The group is open to developers, architects, consultants, engineers and enthusiasts. Participating in GAUG meetups has many benefits including:
 
-- Learn best practices and optimal use of Microsoft’s Cloud platform
+- Learn **best practices** and optimal use of Microsoft’s Cloud platform
 - Get answers, advice, tips and suggestions from peers
-- Gain insights into what others are doing within Azure
-- Network with local peers
+- Gain **insights** into what others are doing within Azure
+- **Network** with local peers

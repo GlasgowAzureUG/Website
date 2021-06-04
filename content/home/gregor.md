@@ -35,10 +35,10 @@ hero_media = "gregor.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "/authors/gregor"
-  label = "Know more"
+  label = "Learn more about Gregor"
   
 
 +++
-## Gregor Suttie, the **co-host**
+## Gregor Suttie, the **co-organiser**
 
-This is the bio of Gregor
+I am a passionate developer with 20+ years experience, mainly with Microsoft Technologies and background is a .NET developer since the start of .NET. – I was one of the first 50 people in the world to become an MCSD developer back in the day.

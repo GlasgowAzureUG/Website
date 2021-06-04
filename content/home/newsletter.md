@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Newsletter"
 
@@ -39,4 +39,8 @@ hero_media = "newsletter.jpg"
   
 
 +++
-Keep in touch with us via our newsletter. 
+## Newsletter
+
+We have a newsletter that we use to communicate with the community.  We don't spam you, we send out emails to notify you of new meetups we have and anything else that we think might be beneficial to the community to know.  At most you'll get 2 or 3 emails a month.  
+
+So why not sign up and join in the fun! 😉

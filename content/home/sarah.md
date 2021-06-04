@@ -35,10 +35,10 @@ hero_media = "sarah3_four.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "/authors/sarah"
-  label = "Know more"
+  label = "Learn more about Sarah"
   
 
 +++
-## Sarah Lean, the **organiser** and **founder**
+## Sarah Lean, the **founder**
 
-This is the bio of Sarah
+I am an IT Professional that enjoys learning new technologies and understanding how those technologies, whether they be in the Cloud or on-premises, can help people and organisations solve the challenges they have. 

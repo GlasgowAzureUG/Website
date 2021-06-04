@@ -98,5 +98,57 @@
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://ashy-hill-052747203.azurestaticapps.net/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashy-hill-052747203.azurestaticapps.net/sponsors/</guid>
+      <description>&lt;h3 id=&#34;sponsors&#34;&gt;Sponsors&lt;/h3&gt;
+&lt;p&gt;We are looking forward to working with the following partners to bring you the Glasgow Azure User Group events.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Sponsors&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hays.co.uk&#34;&gt;&lt;img src=&#34;https://ashy-hill-052747203.azurestaticapps.net/img/hays.gif&#34; alt=&#34;Hays&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Hays is the leading global specialist recruitment group, and the market leader in places such as the UK, Germany and Australia. They are the experts in recruiting qualified, professional and skilled people across a wide range of specialised industries and professions.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://incrementalgroup.co.uk/&#34;&gt;&lt;img src=&#34;https://ashy-hill-052747203.azurestaticapps.net/img/incrementalgroup.png&#34; alt=&#34;Incremental Group&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Incremental Group are a leading Microsoft Dynamics (AX, NAV and CRM) and Dynamics 365 partner with a wide range of services including Azure, Data Science and Power BI.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.servent.co.uk/&#34;&gt;&lt;img src=&#34;https://ashy-hill-052747203.azurestaticapps.net/img/servent.png&#34; alt=&#34;Servent&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Servent are a Microsoft Cloud consultancy and Microsoft Gold Cloud Platform partner helping cloud-power large enterprises.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.f5.com/&#34;&gt;&lt;img src=&#34;https://ashy-hill-052747203.azurestaticapps.net/img/f5.png&#34; alt=&#34;F5&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;F5 Networks specialize in application delivery networking (ADN) technology for the delivery of web applications and the security, performance, availability of servers, data storage devices, and other network and cloud resources.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.nginx.com/&#34;&gt;&lt;img src=&#34;https://ashy-hill-052747203.azurestaticapps.net/img/nginx.png&#34; alt=&#34;NGINX&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;NGINX, now a part of F5, Inc., is the company behind the popular open source project, NGINX. We offer a suite of technologies for developing and delivering modern applications. Together with F5, our combined solution bridges the gap between NetOps and DevOps, with multi cloud application services that span from code to customer.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.shapesecurity.com/&#34;&gt;&lt;img src=&#34;https://ashy-hill-052747203.azurestaticapps.net/img/shape.jpg&#34; alt=&#34;Shape Security&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Shape Security, based in Santa Clara, CA, defends the world&amp;rsquo;s largest enterprises from all types of fraud against their online applications. Shape&amp;rsquo;s fraud prevention platform detects and blocks up to 2 billion fraudulent or unwanted transactions daily, while keeping 200 million legitimate human logins and other interactions safe. Shape provides omnichannel protection for web applications, mobile applications and API interfaces; the company&amp;rsquo;s mobile SDK is deployed on more than 200 million iOS and Android devices worldwide. Shape Security is now a part of F5 Networks. F5 and Shape have joined forces to defend every application against attacks, fraud, and abuse in a multi-cloud world.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

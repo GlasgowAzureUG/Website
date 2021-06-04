@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Gregor Suttie
-avatar_image: "gregor.jpg"
+avatar_image: "gregor-desk.jpeg"
 # Username (this should match the folder name)
 authors:
 - gregor
@@ -40,10 +40,10 @@ social:
   link: https://twitter.com/gregor_suttie
 - icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/in/sazlean/
+  link: https://www.linkedin.com/in/gregorsuttie/
 - icon: youtube
   icon_pack: fab
-  link: https://uk.linkedin.com/in/gregorsuttie
+  link: https://www.youtube.com/gregorsuttie
 - icon: github
   icon_pack: fab
   link: https://github.com/gsuttie
@@ -59,4 +59,9 @@ social:
 # - Researchers
 # - Visitors
 ---
-Gregor's bio
+
+Hi, my name is Gregor Suttie and I live near Glasgow, Scotland.
+
+I am a passionate developer with 20+ years experience, mainly with Microsoft Technologies and background is a .NET developer since the start of .NET. – I was one of the first 50 people in the world to become an MCSD developer back in the day.  In August 2019 I became a Microsoft Azure MVP. 
+
+My main passions are around Azure and DevOps, I went from no knowledge of Azure to an Azure MVP in under 2 years and along the journey passed 9 exams, I learn new skills quickly and I keep on top of a number of technologies and a life learner.

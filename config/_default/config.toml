@@ -9,7 +9,7 @@ title = "Glasgow Azure User Group"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseURL = "https://polite-mushroom-0b7a39a03.azurestaticapps.net/"
+baseURL = ""
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.

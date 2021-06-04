@@ -8,7 +8,7 @@ weight = 40  # Order that this section will appear.
 title = "Speaking"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "speaking.jpg"
+hero_media = "speaking.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -41,4 +41,6 @@ hero_media = "speaking.jpg"
 +++
 ## Speaking
 
-I am an IT Professional that enjoys learning new technologies and understanding how those technologies, whether they be in the Cloud or on-premises, can help people and organisations solve the challenges they have. 
+Are you interested in speaking at one of our events? Well get in touch by filling in the form below.
+
+If you’ve never done any public speaking before, speaking at user group is a great place to start.

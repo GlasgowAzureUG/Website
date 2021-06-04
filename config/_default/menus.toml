@@ -14,15 +14,20 @@
   weight = 20
 
 [[main]]
+  name = "Speaking"
+  url = "#speaking"
+  weight = 30
+
+[[main]]
   name = "Sponsors"
   url = "sponsors"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Organisers"
   url = "#"
   hasChildren = true
-  weight = 40
+  weight = 50
 
 [[main]]
   parent = "Organisers"
@@ -39,13 +44,13 @@
 [[main]]
   name = "Newsletter"
   url = "#newsletter"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Past Events"
   url = "#"
   hasChildren = true
-  weight = 60
+  weight = 70
 
 [[main]]
   parent = "Past Events"
@@ -74,7 +79,7 @@
 [[main]]
   name = "Code of Conduct"
   url = "conduct"
-  weight = 70
+  weight = 80
 
 
 # Link to a PDF of your resume/CV from the menu.

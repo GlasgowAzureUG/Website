@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Speaking
-avatar_image: "speaking.jpg"
+avatar_image: "speaking.png"
 # Username (this should match the folder name)
 authors:
 - speaking

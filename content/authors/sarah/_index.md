@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Sarah Lean
-avatar_image: "sarah3_four.jpg"
+avatar_image: "sarah-desk.jpg"
 # Username (this should match the folder name)
 authors:
 - sarah

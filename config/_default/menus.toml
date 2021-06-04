@@ -9,6 +9,16 @@
   weight = 10
 
 [[main]]
+  name = "Events"
+  url = "#events"
+  weight = 20
+
+[[main]]
+  name = "Sponsors"
+  url = "sponsors"
+  weight = 30
+
+[[main]]
   name = "Organisers"
   url = "#"
   hasChildren = true
@@ -27,19 +37,14 @@
   weight = 20
 
 [[main]]
-  name = "Sponsors"
-  url = "sponsors"
-  weight = 30
-
-[[main]]
-  name = "Events"
-  url = "#events"
-  weight = 20
+  name = "Newsletter"
+  url = "#newsletter"
+  weight = 50
 
 [[main]]
   name = "Code of Conduct"
   url = "conduct"
-  weight = 50
+  weight = 60
 
 
 # Link to a PDF of your resume/CV from the menu.

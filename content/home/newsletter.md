@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Events"
+title = "Newsletter"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "gaugfeb2018.jpg"
+hero_media = "newsletter.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -33,12 +33,10 @@ hero_media = "gaugfeb2018.jpg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-
+[btn]
+  url = "https://gaug.us15.list-manage.com/subscribe?u=8fa0b1f660ecc804c95be0d7e&id=4f0384718a"
+  label = "Sign up for the newsletter"
+  
 
 +++
-We aim to hold a meetup every two months within Glasgow City Centre with speakers and food, all free at the point of use thanks to the continued support of our sponsors. Our events are ticketed and they are generally released on Eventbrite six weeks before the event.
-
-### Upcoming Events
-- June Meetup - 30th June 2021 - [sign up for your free ticket now!](https://www.eventbrite.co.uk/e/copy-of-glasgow-azure-user-group-25-tickets-152675088299)
-- October Meetup - 27th October 2021
-- December Meetup - 15th December 2021
+Keep in touch with us via our newsletter. 

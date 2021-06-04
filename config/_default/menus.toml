@@ -12,7 +12,7 @@
   name = "Organisers"
   url = "#"
   hasChildren = true
-  weight = 20
+  weight = 40
 
 [[main]]
   parent = "Organisers"
@@ -27,14 +27,14 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Sponsors"
+  url = "sponsors"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 40
+  name = "Events"
+  url = "#events"
+  weight = 20
 
 [[main]]
   name = "Code of Conduct"

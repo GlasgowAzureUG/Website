@@ -8,7 +8,7 @@ weight = 60  # Order that this section will appear.
 title = "Sarah Lean"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "sarah3_four.jpg"
+hero_media = "sarah.png"
 
 [design.background]
   # Apply a background color, gradient, or image.

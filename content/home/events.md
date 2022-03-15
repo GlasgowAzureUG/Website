@@ -40,7 +40,6 @@ hero_media = "gaugfeb2018.jpg"
 We aim to hold a meetup every two months, all **free** at the point of use thanks to the continued support of our sponsors. We do run our events with tickets, so when we are running physical events we need to ensure we don't exceed the amount of seats we have and adhere to our venues' fire codes.  As we said though our events are free, so signing up for a ticket is really easy via [Eventbrite](https://www.eventbrite.co.uk/o/glasgow-azure-user-group-13843919802), and it's also really easy to cancel a ticket if you can no longer attend. 😉
 
 ### Upcoming Events
-- February Meetup - 23rd Feburary 2022
 - April Meetup - 27th April 2022
 - June Meetup - 29th June 2022
 - August Meetup - 24th August 2022

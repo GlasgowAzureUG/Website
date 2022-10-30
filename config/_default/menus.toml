@@ -78,6 +78,12 @@
 
 [[main]]
   parent = "Past Events"
+  name = "2021"
+  url = "2021"
+  weight = 50
+
+[[main]]
+  parent = "Past Events"
   name = "2022"
   url = "2022"
   weight = 60

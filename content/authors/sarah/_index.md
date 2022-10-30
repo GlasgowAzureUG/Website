@@ -60,7 +60,7 @@ social:
 # - Visitors
 ---
 
-With a diverse career that spans over fifteen years, Sarah has been a part of every aspect of the IT world. She began at the bottom of the industry, working hard at the small jobs until she earned her way to her current position. With determination, Sarah accomplished her goals, getting things done in a timely, intelligent way. This led her to see things on a bigger scope as her passion for technology deepened.
+With a diverse career that spans over eighteen years, Sarah has been a part of every aspect of the IT world. She began at the bottom of the industry, working hard at the small jobs until she earned her way to her current position. With determination, Sarah accomplished her goals, getting things done in a timely, intelligent way. This led her to see things on a bigger scope as her passion for technology deepened.
 
 Born and raised on a dairy farm in Scotland, Sarah holds true to her heritage by embracing the natural world through her appreciation for technology. For Sarah, technology is a way to see life as it grows and adapts, ever-changing, just like the natural world of farming.
 

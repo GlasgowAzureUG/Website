@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glasgow Azure User Group</title>
+    <link>/</link>
+    <description>Recent content on Glasgow Azure User Group</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/</guid>
+      <description>&lt;h2 id=&#34;2017&#34;&gt;2017&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;On August 23rd 2017, a group of engaged and enthusiastic IT professions gathered at the HAYS Recruitment in the City Centre of Glasgow.  We had two Microsoft experts as speakers cover the basics of Azure and also what serverless within the platform means.  If you didn&amp;rsquo;t managed to attend the event it was recorded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/0yub7gseB8w&#34; title=&#34;Glasgow Azure User Group August 2017 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;On the 25th October 2017, our meetup focused on Security.  We had three speakers cover everything from native Azure security products to third party products.  There was also a session that cover HoloLens and virtual reality.   The session was recorded and is available via YouTube
+&lt;a href=&#34;https://youtu.be/08O6dkZytHY&#34; title=&#34;Glasgow Azure User Group October 2017 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;On the 6th December 2017, we had MVP Ed Baker take us through the latest cloud solutions available for sharing files within your organisation and Microsoft employee Stephen Armory spoke about the data platforms available within Azure.  The session was recorded and is available via YouTube
+&lt;a href=&#34;https://youtu.be/rKbheatZRl4&#34; title=&#34;Glasgow Azure User Group December 2017 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/</guid>
+      <description>&lt;h2 id=&#34;2018&#34;&gt;2018&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We held our February 2018 meetup on the 21st where Simon Binder and Gary Lumsden spoke to us:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/gPxClsr63Fo&#34; title=&#34;Glasgow Azure User Group February 2018 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;At our April 25th 2018 meetup we had David McKay take us through an Introduction to Docker and we had Andrew Kemp come along and share his Office 365 knowledge.  The session was recorded and is available via YouTube at:
+&lt;a href=&#34;https://youtu.be/Yi14E5OtXKw&#34; title=&#34;Glasgow Azure User Group April 2018 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;June 2018 meetup saw two Microsoft employees visit and speak to use regarding Data Centre Transformations and Cognitive Services &amp;amp; Bots.  &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t filmed.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;At our August 2018 meetup we had our sponsors F5 talk about their products and how they can be used within the Cloud and we also had another sponsor, Servent give us details on how they&amp;rsquo;ve implemented Azure at a customer and share the real life journey.
+&lt;a href=&#34;https://youtu.be/nj673AG_qI0&#34; title=&#34;Glasgow Azure User Group August 2018 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Our October 2018 meetup was held as a Super meetup in conjunction with the Glasgow SQL User Group and Scottish PowerShell and DevOps Group.  We have five speakers give us lightning talks on various different subjects.&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/QS_gppC5UWQ&#34; title=&#34;Glasgow Azure User Group October 2018 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In December 2018, we had two Swedish MVP&amp;rsquo;s attend, Simon Binder and Alexander Ardvisson.  &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/</guid>
+      <description>&lt;h2 id=&#34;2019&#34;&gt;2019&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;With our first meetup of 2019 in February we welcomed Scott Tees, from Police Scotland&amp;rsquo;s Safe Communities Unit and also Justin Black from HAYS who shared information about the current job market in Glasgow and Edinburgh. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In April, we saw Ryan Yates visit our meetup and deliver a mammoth session entitled &amp;ldquo;Using Azure DevOps, ARM Templates and Terraform for standing up Dev &amp;amp; Test Infrastructure in Azure&amp;rdquo;.
+&lt;a href=&#34;https://youtu.be/6DCuS97n57Y&#34; title=&#34;Glasgow Azure User Group April 2019 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In June, we welcomed Simon Binder from Sweden who presented a session on &amp;ldquo;Windows Virtual Desktop and how it fits into M365&amp;rdquo;.  And we also had Dave Burrell present on &amp;ldquo;Azure Cognitive Services and Microsoft Flow&amp;rdquo;. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In August, we had the pleasure of welcoming an International visitor in Thomas Naunheim, who presented a session around &amp;ldquo;Hybrid Identity Design and Security Considerations in Azure AD&amp;rdquo;.  And we also had Derek Campbell present his session entitled &amp;ldquo;Turbo charging Azure DevOps with Octopus Deploy&amp;rdquo;. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In October, we saw Scott Treacy deliver a session on &amp;ldquo;Defending Against Advance Automated Threats&amp;rdquo; as well as Darren Small present on the &amp;ldquo;Azure Intelligent Edge&amp;rdquo;.  &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In November we joined forces with various user groups and welcomed some of the &lt;a href=&#34;https://developer.microsoft.com/en-us/advocates/index.html?WT.mc_id=modinfra-0000-salean&#34;&gt;Microsoft Cloud Advocate team&lt;/a&gt; to Glasgow. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In December we had Kirk Ryan present a session around NetApp and how it can be used in Azure.  We also had Calum Fay present a session on Kubernetes. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/</guid>
+      <description>&lt;h2 id=&#34;2020&#34;&gt;2020&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In February we saw &lt;a href=&#34;https://www.linkedin.com/in/janet-moss-41737720/&#34;&gt;Janet Moss&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.linkedin.com/in/chris-mcinnes-7b774b75/&#34;&gt;Chris McInnes&lt;/a&gt; present a session entitled &amp;ldquo;50 Ways to Kill Your Project Manager&amp;rdquo; and we also had Michael Stephenson present &amp;ldquo;Building awesome Serverless Solutions with Terraform and Azure&amp;rdquo;. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In April, we held our first virtual meetup and we had &lt;a href=&#34;https://www.linkedin.com/in/gary-hay-0b312623/&#34;&gt;Gary Hay&lt;/a&gt; present a session on Azure Sentinel. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In June, we held our second virtual meetup and had &lt;a href=&#34;https://www.linkedin.com/in/azureapril/&#34;&gt;April Edwards&lt;/a&gt; present a session on &amp;ldquo;Storing Data in Azure&amp;rdquo;.  And we also had &lt;a href=&#34;https://www.linkedin.com/in/ricastle/&#34;&gt;Richard Castle&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.linkedin.com/in/mark-boddington/&#34;&gt;Mark Boddington&lt;/a&gt; from F5 talk about NGINX. 
+&lt;a href=&#34;https://youtu.be/v-RdI87OURg&#34; title=&#34;Glasgow Azure User Group June 2020 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In August, we held another virtual meeting.  Our session speakers were Derek Campbell and Mikhail Shilkov.  Who spoke about Octopus Deploy Runbooks and also Pulumi with Azure. 
+&lt;a href=&#34;https://youtu.be/-Eb6qQ57T-g&#34; title=&#34;Glasgow Azure User Group August 2020 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In October, we held another virtual meeting.  We had two sessions during the event,  the first session was presented by Tricia Sinclair - Azure Boards: The Other Side of DevOps. The second session was presented by Barbara Forbes - Automating Azure: Make the portal work for you.
+&lt;a href=&#34;https://youtu.be/Oe8Q2-D7xD0&#34; title=&#34;Glasgow Azure User Group October 2020 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In December, we held another virtual meeting.  We had two sessions during the event, the first session was presented by Donovan Brown on Digital Transformation and our second session was delivered by Heini Ilmarinen on Big Data Architecture in the Real World. 
+&lt;a href=&#34;https://youtu.be/_d4e4cGUlY4&#34; title=&#34;Glasgow Azure User Group December 2020 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/</guid>
+      <description>&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In February we had both Anaïs Urlichs and Gwyneth Peña-Siguenza present to the virtual meetup. &lt;a href=&#34;https://youtu.be/sOfqCt_P4vw&#34; title=&#34;Glasgow Azure User Group December 2020 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For April&amp;rsquo;s virtual meetup, we did a number of sessions.  We had Bart Kooijmans, Neil McLoughlin, Mert Yeter, Chris Reddington, John Martin, Rob Sewell and Rishab Kumar present. &lt;a href=&#34;https://youtu.be/pjtabPyn-C4&#34; title=&#34;Glasgow Azure User Group December 2020 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We had another virtual meetup in June.  Gary Lumsden presented about Azure Bicep. &lt;a href=&#34;https://youtu.be/UQcDqV2DBbc&#34; title=&#34;Glasgow Azure User Group December 2020 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Our last meetup of the year was another virtual meetup in December.  We had Gary Short, Keith Atherton and Bret Rohloff present. &lt;a href=&#34;https://youtu.be/P7IqzbouMMs&#34; title=&#34;Glasgow Azure User Group December 2020 meetup - Click to Watch!&#34;&gt;&lt;img src=&#34;/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/</guid>
+      <description>&lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In February we had &lt;a href=&#34;https://uk.linkedin.com/in/willrowe&#34;&gt;Will Rowe&lt;/a&gt; give his presentation around &amp;ldquo;The Rules for Your Career Have Changed&amp;rdquo;.  We also had Rick Claus present &amp;ldquo;My top 7 favourite Hybrid things about Azure Stack HCI&amp;rdquo;.  &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In April we held an informal gathering of the group, no speakers presented at the meetup.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In June we had &lt;a href=&#34;https://twitter.com/ConsidercloudDS&#34;&gt;Derek Smith&lt;/a&gt; present his session on &amp;ldquo;Protect your Critical Applications with Azure Front Door (AFD)&amp;rdquo;. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;
+&lt;img src=&#34;/img/june2022.png&#34; alt=&#34;Derek Smith Presenting June 2022&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For August we had a remote presenter, &lt;a href=&#34;https://twitter.com/HeikoBrenn&#34;&gt;Heiko Brenn&lt;/a&gt;.  He presented &amp;ldquo;Automate &amp;amp; delegate recurring Azure management tasks with PowerShell in 5 steps&amp;rdquo;. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;
+&lt;img src=&#34;/img/august2022.png&#34; alt=&#34;Heiko Brenn Presenting August 2022&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Our presenter in October was &lt;a href=&#34;https://uk.linkedin.com/in/stephen-connell-4b72925&#34;&gt;Stephen Connell&lt;/a&gt;.  He presented &amp;ldquo;Using Delta Lake in Azure Synapse Analytics&amp;rdquo;. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/img/20221026_181521.jpg&#34; alt=&#34;Stephen Connell Presenting October 2022&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Our presenter in Decemeber was &lt;a href=&#34;https://www.linkedin.com/in/simonbinderteliacygate/&#34;&gt;Simon Binder&lt;/a&gt;.  Simon travelled from Sweden to share his session &amp;ldquo;Patching Windows in the 21st Century&amp;rdquo;. &lt;em&gt;Unfortunately this meetup wasn&amp;rsquo;t recorded.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/img/december2022.png&#34; alt=&#34;Simon Binder Presenting December 2022&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/conduct/</guid>
+      <description>&lt;h3 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h3&gt;
+&lt;p&gt;This code of conduct outlines our expectations for participants within the Glasgow Azure User Group community, as well as steps to reporting unacceptable behaviour. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honoured. Anyone who violates this code of conduct may be banned from the community.&lt;/p&gt;
+&lt;p&gt;We are dedicated to providing a harassment-free user group/conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.&lt;/p&gt;
+&lt;p&gt;Our aim is to foster a community that is open to all and strives to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be friendly and patient&lt;/li&gt;
+&lt;li&gt;Be welcoming: We strive to be a community that welcomes and supports people of all backgrounds and identities.&lt;/li&gt;
+&lt;li&gt;Be considerate&lt;/li&gt;
+&lt;li&gt;Be respectful: You may not agree with each other all the time but disagreement is no excuse for poor behaviour and poor manners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;reporting-process&#34;&gt;Reporting Process&lt;/h4&gt;
+&lt;p&gt;If you experience or witness unacceptable behaviour—or have any other concerns—please report it by contacting us via one of these methods:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Email to &lt;a href=&#34;mailto:conduct@gaug.co.uk&#34;&gt;conduct@gaug.co.uk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In person while at an event - please ask to speak to a committee member.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;consequences-of-unacceptable-behaviour&#34;&gt;Consequences of Unacceptable Behaviour&lt;/h4&gt;
+&lt;p&gt;Unacceptable behaviour from any community member, including sponsors and those with decision-making authority, will not be tolerated. Anyone asked to stop unacceptable behaviour is expected to comply immediately.&lt;/p&gt;
+&lt;p&gt;If a community member engages in unacceptable behaviour, the community organisers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.&lt;/p&gt;
+&lt;p&gt;We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks.&lt;/p&gt;
+&lt;p&gt;Attendees or speakers violating these rules will be asked to leave the meeting, and will be refused entrance to future meetings.&lt;/p&gt;
+&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h3&gt;
+&lt;p&gt;If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of organising staff.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/</guid>
+      <description>&lt;h3 id=&#34;sponsors&#34;&gt;Sponsors&lt;/h3&gt;
+&lt;p&gt;We are looking forward to working with the following partners to bring you the Glasgow Azure User Group events.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gold Sponsors&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://incrementalgroup.co.uk/&#34;&gt;&lt;img src=&#34;/img/incrementalgroup.png&#34; alt=&#34;Incremental Group&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Incremental Group are a leading Microsoft Dynamics (AX, NAV and CRM) and Dynamics 365 partner with a wide range of services including Azure, Data Science and Power BI.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.servent.co.uk/&#34;&gt;&lt;img src=&#34;/img/servent.png&#34; alt=&#34;Servent&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Servent are a Microsoft Cloud consultancy and Microsoft Gold Cloud Platform partner helping cloud-power large enterprises.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.scriptrunner.com/&#34;&gt;&lt;img src=&#34;/img/scriptrunner.png&#34; alt=&#34;ScriptRunner&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;ScriptRunner enables IT Pros first automation with PowerShell in less than a day, it is simple and safe to use and can manage systems on-prem, hybrid and cloud services.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Silver Sponsors&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://techielass.azureedge.net/gaug/GAUG-Sponsorship-Proposal-2023.pdf&#34;&gt;Opportunities available&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bronze Sponsors&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://techielass.azureedge.net/gaug/GAUG-Sponsorship-Proposal-2023.pdf&#34;&gt;Opportunities available&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

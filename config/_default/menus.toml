@@ -89,6 +89,12 @@
   weight = 60
 
 [[main]]
+  parent = "Past Events"
+  name = "2023"
+  url = "2023"
+  weight = 70
+
+[[main]]
   name = "Code of Conduct"
   url = "conduct"
   weight = 80

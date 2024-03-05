@@ -19,7 +19,7 @@ We are a small community group run in our spare time. We don’t have the time o
 Seriously who actually cares? Do you even know what a cookie is or does? Well then. Yes we use cookies because that’s kinda how the Internet works. If you don’t want our delicious home-baked chocolate chip scripts, then you need to block cookies on your browser but don’t come crying to us when nothing does what it’s supposed to.
 
 ### Stalky Visitor Tracking
-Look, we’re following you, ok? We use Google Analytics, primarily to stare at the real time stats because they’re cool but also to see what you like visiting and don't like visiting. 
+Look, we’re following you, ok? We use Google Analytics and Lite Analytics, primarily to stare at the real time stats because they’re cool but also to see what you like visiting and don't like visiting. 
 
 None of these things store any super personal data about you but probably they nab your IP address, not that we know where to look for it or what to do with it. All we see is that a person or many people have interacted with the website in a particular way. You can mess with us by doing something totally unexpected on the website and skewing our stats. Or you could do something way more fun and useful with your time LIKE WRITING.
 

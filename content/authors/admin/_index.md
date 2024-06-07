@@ -20,7 +20,7 @@ superuser: true
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Welcome to the Glasgow Azure User Group page! This user group was founded as an independent body in early 2017 and it looks to bring the IT community within Glasgow and surrounding areas together. The group is a community driven group delivering the type of content, speakers and experiences that the IT community in Glasgow wants. The group is open to developers, architects, consultants, engineers and enthusiasts. Participating in GAUG meetups has many benefits including:
+bio: "Welcome to the Glasgow Azure User Group page! This user group was founded as an independent body in early 2017 and it looks to bring the IT community within Glasgow and surrounding areas together. The group is a community driven group delivering the type of content, speakers and experiences that the IT community in Glasgow wants. The group is open to developers, architects, consultants, engineers and enthusiasts. Participating in meetups has many benefits including:
 
 - Learn best practices and optimal use of Microsoft’s Cloud platform
 - Get answers, advice, tips and suggestions from peers

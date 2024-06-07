@@ -3,11 +3,11 @@ name: Deploy Hugo Site to Azure Static Web Apps
 on:
   push:
     branches:
-      - main
+      - production
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
-      - main
+      - production
 
 jobs:
   build-and-deploy:

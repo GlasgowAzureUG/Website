@@ -18,6 +18,13 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: true
+      - name: Install Hugo
+        run: |
+          HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name' | sed 's/^v//')
+          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+          tar -xzvf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+          sudo mv hugo /usr/local/bin/
+          hugo version # Confirm the version installed
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
